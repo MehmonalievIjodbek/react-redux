@@ -4,7 +4,6 @@ import { initializeTodos } from "./action/todos";
 import './App.css';
 import TodosHeader from "./components/todos-header";
 import TodosForm from "./components/todos-form";
-import TodoItem from "./components/todo-item";
 import TodoItems from "./components/todo-items";
 import TodosFooter from "./components/todos-footer";
 function App() {
